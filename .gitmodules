@@ -1,0 +1,3 @@
+[submodule "test-git"]
+	path = test-git
+	url = https://github.com/fedkam/test-git.git

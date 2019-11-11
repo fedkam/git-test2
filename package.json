@@ -1,0 +1,8 @@
+{
+  "name": "git-test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fedkam/git-test2.git",
+  "author": "fed <korolevfedos@yandex.ru>",
+  "license": "MIT"
+}
